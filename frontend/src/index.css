@@ -1,5 +1,5 @@
 * {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 0;
 }
 
@@ -13,8 +13,8 @@ a {
 }
 
 :root {
-  --color-bg: #1f1f38;
-  --color-bg-variant: #2c2c6c;
+  --color-bg: #a1a1cc;
+  --color-bg-variant: #51518b;
   --color-primary: #4db5ff;
   --color-primary-variant: rgba(77, 181, 255, 0.4);
   --color-light: rgba(255, 255, 255, 0.6);
@@ -45,7 +45,7 @@ a {
   flex-direction: column;
 }
 
-.registerForm>label {
+.registerForm > label {
   margin: 10px 0;
   color: rgb(0, 0, 0);
 }
